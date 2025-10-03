@@ -1,0 +1,8 @@
+Google Dork: internette daha hedefe yönelik sonuçlar bulmayı kolaylaştırır. İyi amaçlar için kullanılırsa hedef olan konuya doğru operatörler kullanarak daha hızlı ulaşılabilir fakat kötü amaçlı olarak kullanılırsa kişisel verilere kolayca erişim sağlanır.
+
+
+WEB 1: Temel hedefi kullanıcılara bilgi yaymaktır, sayfaları genellikle statikti üzerinde sık sık değişimler yapılmamakla birlikte dinamik özellikler sayılıydı.(örnek: e-posta, yorum formları)
+
+WEB 2: Web 1 de sadece okunabilir iken bu dönemde artık yazılabilir, paylaşılabilir ve yorumlanabilir olmuştur, statik sayfaların yerini daha çok dinamik özellikler almaya başlamıştır bu web sayfasına YouTube, Facebook, Wikipedia 1ve Twitter örnektir. 
+
+WEB 3: Diğerlerinin aksine Web sitesine sahip olmaya ve kontrol etmeye odaklanır. Kullanıcılar sadece üretmekle kalmamakla birlikte bu içerik ve verilerinin sahibi olmayı hedefler bunlara NFT’ler, kripto paralar ve akıllı kontratlar örnek verilebilir.
