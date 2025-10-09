@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Modify a JavaScript Object</h2>
+<p id="demo"></p>
+
+<script>
+const myObj = {name:"Cem", age:18, city:"Antalya"};
+myObj["name"] = "Davut";
+document.getElementById("demo").innerHTML = myObj.name;
+</script>
+
+</body>
+</html>

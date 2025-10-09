@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>benim arabam</h2>
+<p>arabama bakın.</p>
+<p id="demo"></p>
+
+<script>
+const xmlhttp = new XMLHttpRequest();
+xmlhttp.onload = function() {
+  const myArr = JSON.parse(this.responseText);
+  document.getElementById("demo").innerHTML = myArr[0];
+}
+xmlhttp.open("GET", "json_demo_array.txt", true);
+xmlhttp.send();
+</script>
+
+</body>
+</html>
